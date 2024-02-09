@@ -1,3 +1,7 @@
 # chatbot-rag-method
 
-##Description
+## Description
+
+This reposity contains a project for a chatbot that implements RAG technique using various Microsoft Azure services. The main features of the project are:
+ - RAG technique to avoid hallucination using Azure AI Search.
+ - Automatic data indexing for the following file formats: PDF, CSV, JSON.
